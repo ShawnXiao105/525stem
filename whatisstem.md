@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 有關STEM教育
+bigimg: /img/stem.png
 ---
 
 
