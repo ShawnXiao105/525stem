@@ -23,13 +23,13 @@ description: 教育里需要做的决策其实是非常复杂、非常昂贵的�
 
 # List of links in the navigation bar
 navbar-links:
-  什么是STEM: "aboutme"
-  本地教学中心: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  关于我们: "aboutme"
+  什麼是STEM: "whatisstem"
+  本地資源: "aboutus"
+  其他:
+    - 1: "whatisstem"
+    - 2: "whatisstem"
+    - 3: "whatisstem"
+  关于我们: "aboutus"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -65,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Shawn Xiao
+  name: 525STEM
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -105,10 +105,10 @@ url-pretty: "525STEM.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-121656431-2"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-121656431-2"
 
 # Google Tag Manager ID
 #gtm: ""
