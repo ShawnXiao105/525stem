@@ -14,10 +14,10 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 525 STEM - 我爱玩STEM
+title: 525 STEM - 我愛玩STEM
 
 # Short description of your site
-description: 教育里需要做的决策其实是非常复杂、非常昂贵的，有可能对孩子一生都有影响。可是现在信息复杂，选择负载，家长基本上都是闭着眼睛做决定，经常是哪个培训机构营销做得好，就把孩子给抓进去了。
+description: 教育裡需要做的決策其實是非常複雜、非常昂貴的，有可能對孩子一生都有影響。可是現在信息複雜，選擇負載，家長基本上都是閉著眼睛做決定，經常是哪個培訓機構營銷做得好，就把孩子給抓進去了。
 
 # --- Navigation bar options --- #
 
@@ -65,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: 525STEM
+  name: 525STEM-我愛玩STEM
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

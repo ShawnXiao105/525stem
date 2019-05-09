@@ -1,5 +1,6 @@
 ---
 layout: page
+title: '  '
 bigimg: /img/stem.png
 ---
 
